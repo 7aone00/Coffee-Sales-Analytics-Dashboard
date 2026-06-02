@@ -2,23 +2,25 @@
 
 ## 📊 Project Overview
 
-This project analyzes coffee sales performance using Excel and business intelligence techniques.
+This project analyzes coffee sales data using Microsoft Excel and business intelligence techniques.
 
-The dashboard was built to identify sales trends, customer behavior, loyalty program effectiveness, product preferences, and market opportunities.
+The goal was to transform raw sales data into actionable business insights through data cleaning, dashboard development, and executive storytelling.
 
----
-
-## 🎯 Business Objectives
-
-* Analyze sales performance across countries
-* Evaluate loyalty program effectiveness
-* Identify customer purchasing behavior
-* Understand coffee type and roast preferences
-* Generate actionable business recommendations
+The project covers the complete analytics workflow from raw data preparation to business recommendations.
 
 ---
 
-## 🛠 Tools Used
+## 🎯 Business Questions
+
+* Which market generates the highest revenue?
+* Which coffee products drive sales?
+* Is the loyalty program effective?
+* What package sizes are preferred by customers?
+* Where should the company focus future growth efforts?
+
+---
+
+## 🛠 Tools & Skills Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -27,53 +29,99 @@ The dashboard was built to identify sales trends, customer behavior, loyalty pro
 * XLOOKUP
 * INDEX + MATCH
 * Data Cleaning
-* Business Storytelling
+* Data Visualization
+* Business Analysis
+* Executive Storytelling
 
 ---
 
-## 📈 Key Insights
+## 📈 Key Findings
 
-### 1. Market Concentration
+### 🇺🇸 Market Concentration
 
-The United States generated approximately 79% of total sales, indicating heavy dependence on a single market.
+The United States generated approximately **79%** of total sales revenue, indicating a strong dependence on a single market.
 
-### 2. Package Size Preference
+### 📦 Package Size Preference
 
-The 2.5kg package generated 52.7% of total revenue, making it the strongest-performing product size.
+The **2.5kg package** generated **52.7%** of total sales revenue, making it the strongest-performing package size.
 
-### 3. Roast Preference
+### ☕ Roast Preference
 
-Light Roast was the most popular roast profile among customers.
+Customers showed the strongest preference for **Light Roast** products.
 
-### 4. Product Diversification
+### 🌍 Expansion Opportunity
 
-Sales were distributed relatively evenly across major coffee types, reducing dependency on a single product category.
+Ireland demonstrated stronger sales potential than the United Kingdom, making it a more attractive market for future expansion efforts.
 
-### 5. Loyalty Program Opportunity
+### 💳 Loyalty Program Analysis
 
-Loyalty members contributed 46.35% of sales but did not spend more on average than non-members, suggesting opportunities for program improvement.
+Loyalty members generated **46.35%** of total revenue but spent slightly less on average than non-members, suggesting opportunities to improve the loyalty program strategy.
+
+### 🫘 Coffee Type Distribution
+
+Sales were distributed relatively evenly across the major coffee types, reducing dependency on a single product category.
 
 ---
 
-## 💡 Recommendations
+## 💼 Business Impact
+
+* Identified heavy dependence on the U.S. market (79% of revenue).
+* Discovered that 2.5kg packages generate more than half of total sales.
+* Evaluated loyalty program effectiveness and identified optimization opportunities.
+* Highlighted Ireland as a stronger growth opportunity than the UK market.
+* Confirmed that revenue is diversified across multiple coffee types rather than relying on a single product.
+
+---
+
+## 💡 Business Recommendations
 
 * Expand marketing efforts in Ireland.
-* Promote 2.5kg products through subscriptions and bundle offers.
-* Improve loyalty program rewards.
+* Promote 2.5kg packages through subscriptions and bundle offers.
+* Improve loyalty program incentives to encourage higher spending.
 * Continue investing in Light Roast products.
 * Reduce long-term dependence on the U.S. market.
+* Maintain a balanced product portfolio across coffee types.
 
 ---
 
-## 📷 Dashboard Preview
+## 🖼 Dashboard Preview
 
-<img width="1670" height="941" alt="dashboard" src="https://github.com/user-attachments/assets/af7b6bc1-c019-474b-84fb-caded9450997" />
+### Excel Dashboard
 
+![Excel Dashboard](Images/excel_dashboard.png)
+
+### Power BI Concept Dashboard
+
+![Power BI Dashboard](Images/powerbi_dashboard_mockup.png)
+
+---
+
+## 📁 Files Included
+
+* Original Dataset
+* Cleaned Dataset
+* Interactive Excel Dashboard
+* Dashboard Screenshots
+* Executive Analysis Report
 
 ---
 
 ## 👨‍💻 Author
 
-Hassan
-Aspiring Data Analyst
-PL-300 Certified
+**Hassan**
+
+PL-300 Certified Data Analyst
+
+GitHub: https://github.com/7aone00
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates the ability to:
+
+* Clean and prepare raw data.
+* Build interactive Excel dashboards.
+* Perform business-focused analysis.
+* Extract actionable insights from sales data.
+* Communicate findings through executive storytelling and recommendations.
