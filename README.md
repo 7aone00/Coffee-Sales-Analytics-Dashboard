@@ -67,7 +67,8 @@ Loyalty members contributed 46.35% of sales but did not spend more on average th
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshots here)
+<img width="1670" height="941" alt="dashboard" src="https://github.com/user-attachments/assets/af7b6bc1-c019-474b-84fb-caded9450997" />
+
 
 ---
 
