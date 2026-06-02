@@ -86,13 +86,11 @@ Sales were distributed relatively evenly across the major coffee types, reducing
 
 ## 🖼 Dashboard Preview
 
-### Excel Dashboard
-
-![Excel Dashboard](Images/excel_dashboard.png)
 
 ### Power BI Concept Dashboard
 
-![Power BI Dashboard](Images/powerbi_dashboard_mockup.png)
+<img width="1670" height="941" alt="dashboard" src="https://github.com/user-attachments/assets/3e7521e6-dbc8-444f-b8bc-5db48332abc2" />
+
 
 ---
 
